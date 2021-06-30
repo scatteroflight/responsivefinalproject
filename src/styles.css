@@ -1,6 +1,6 @@
 
 :root {
-  --primary-color: #F8F9FA;
+  --primary-color: #fcfcfb;
   --border-color: #dadde1;
   --secondary-color: #bb5a5a;
 }
@@ -13,7 +13,7 @@
 
 body {
   font-family: "Cormorant Garamond", serif;
-  background-color: #fcfcfb;
+  background-color: #F8F9FA;
 }
 
 
