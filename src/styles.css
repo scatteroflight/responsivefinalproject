@@ -73,7 +73,7 @@ body {
 
 .about-photo img,
 .work-image img {
-  filter:grayscale(1);
+  filter:sepia(1);
 }
 
 .about-skills {
