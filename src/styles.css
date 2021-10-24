@@ -161,6 +161,7 @@ body {
   width: 100%;
   height: 100%;
   object-fit: fill;
+  filter: none;
 }
 
 .work .work-info::before {
@@ -306,10 +307,6 @@ body {
   .connect-icons {
     margin-bottom: 70px;
   }
-}
-
-img {
-filter: none;
 }
 
 </style>
